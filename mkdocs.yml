@@ -1,6 +1,6 @@
 site_name: "API de Cotação do Dólar"
 site_author: "Lucas Lima"
-repo_url: "https://github.com/lucasouzamil/projeto-nuvem"
+repo_url: "https://github.com/lucasouzamil/api-cotacao-dolar-docker"
 theme:
   name: material
   features:
