@@ -1,7 +1,7 @@
 
 # API de Cotação do Dólar
 
-[SITE DA DOCUMENTAÇÃO](https://lucasouzamil.github.io/projeto-nuvem/)
+[SITE DA DOCUMENTAÇÃO](https://lucasouzamil.github.io/api-cotacao-dolar-docker/)
 
 ## Descrição do Projeto
 
