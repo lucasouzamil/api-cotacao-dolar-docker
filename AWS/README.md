@@ -1,5 +1,5 @@
 
-# Projeto Nuvem - Deploy na AWS com EKS
+# Projeto API DOLAR - Deploy na AWS com EKS
 
 **Autor:** Lucas Lima
 **Projeto:** Deploy na AWS usando EKS
